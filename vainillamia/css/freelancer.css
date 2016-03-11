@@ -69,7 +69,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #FFFFCC;
+  background: #18bc9c;
   color: white;
 }
 header .container {
@@ -90,7 +90,7 @@ header .intro-text .name {
 header .intro-text .skills {
   font-size: 1.25em;
   font-weight: 300;
-  color:#000000;
+
 }
 @media (min-width: 768px) {
   header .container {
