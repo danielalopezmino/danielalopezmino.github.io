@@ -11508,7 +11508,8 @@ html {
   background-color: #1a252f;
 }
 
-.centrar{
-    margin:auto;
-    display:block;
+img.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
 }
