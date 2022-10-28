@@ -1,0 +1,15 @@
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+            Taquitos y Antojitos
+            </head>
+            <body>
+            <div class="row mb-5">
+
+              <div class="col-lg-12">
+                <figure><img src="https://github.com/danielalopezmino/danielalopezmino.github.io/blob/master/senirop_entrada.png?raw=true" alt="Image" class="img-fluid">
+                  <figcaption>Dashboard re diseñado</figcaption>
+                </figure>
+              </div>
+            </div>
+            </body>
