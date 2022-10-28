@@ -11512,3 +11512,8 @@ html {
   margin-left: auto;
   margin-right: auto;
 }
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
